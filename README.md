@@ -21,13 +21,15 @@ This lab focuses on configuring VLANs, DHCP, trunking, and basic switch/router s
 <img width="1172" height="615" alt="image" src="https://github.com/user-attachments/assets/7b4ccd9e-747b-4822-a706-0b1ac575cb23" />
 
 ## Topology Requirements
-<img width="730" height="272" alt="image" src="https://github.com/user-attachments/assets/3991ad4f-1ee7-4c06-9b70-86800cb9b3c5" />
+<img width="740" height="212" alt="image" src="https://github.com/user-attachments/assets/70147aec-b3b1-4a73-88d0-6a797aa504f7" />
 
+## Addressing Requirements
+<img width="762" height="252" alt="image" src="https://github.com/user-attachments/assets/564f17d6-0b10-49e7-8086-73693dea82a8" />
 
 - ## What I Learned
 - VLAN segmentation and network organization
 - DHCP configuration and automatic addressing
-- Trunking between Cisco switches
+- Trunking between Cisco devices
 - Disabling DTP for better security
 - Basic switch and router hardening
 - Verifying network connectivity and configurations
