@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Lab — VLANs, DHCP, Trunking, and Switch Security
+# VLANs, DHCP, Trunking, and Switch Security
 
 ## Overview
 This lab focuses on configuring VLANs, DHCP, trunking, and basic switch/router security. The goal is to create a functional network where all devices can communicate successfully while implementing common Cisco best practices.
