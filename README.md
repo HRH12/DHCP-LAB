@@ -10,7 +10,7 @@ This lab focuses on configuring VLANs, DHCP, trunking, and basic switch/router s
 - Disable DTP
 - Ensure all devices can communicate
 - Disable unused switch ports
-- Configure passwords for:
+- Configure passwords for: (pwd:cisco)
   - Privileged EXEC mode
   - Console access
   - VTY lines
