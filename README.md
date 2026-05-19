@@ -18,7 +18,7 @@ This lab focuses on configuring VLANs, DHCP, trunking, and basic switch/router s
 - Change device hostnames
 
 ## Topology
-<img width="1172" height="615" alt="image" src="https://github.com/user-attachments/assets/7b4ccd9e-747b-4822-a706-0b1ac575cb23" />
+<img width="1307" height="660" alt="image" src="https://github.com/user-attachments/assets/84dab494-cbf0-42f6-b8dc-9c7c78ff9074" />
 
 ## Topology Requirements
 <img width="740" height="212" alt="image" src="https://github.com/user-attachments/assets/70147aec-b3b1-4a73-88d0-6a797aa504f7" />
